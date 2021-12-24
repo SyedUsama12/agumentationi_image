@@ -1,0 +1,1 @@
+# agumentationi_image
