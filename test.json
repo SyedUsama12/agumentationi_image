@@ -1,0 +1,60 @@
+{
+  "info": {
+    "year": 2021,
+    "version": 1,
+    "description": "VIA project exported to COCO format using VGG Image Annotator (http://www.robots.ox.ac.uk/~vgg/software/via/)",
+    "contributor": "",
+    "url": "http://www.robots.ox.ac.uk/~vgg/software/via/",
+    "date_created": "Wed Dec 08 2021 15:51:56 GMT+0500 (Pakistan Standard Time)"
+  },
+  "images": [
+    {
+      "id": 1,
+      "width": 800,
+      "height": 533,
+      "file_name": "girl-smiling2.jpg",
+      "license": 0,
+      "date_captured": ""
+    }
+  ],
+  "annotations": [
+    {
+      "segmentation": [[392, 114, 694, 114, 694, 442, 392, 442]],
+      "area": 99056,
+      "bbox": [392, 114, 302, 328],
+      "iscrowd": 0,
+      "id": 1,
+      "image_id": 1,
+      "category_id": 4
+    }
+  ],
+  "licenses": [
+    {
+      "id": 0,
+      "name": "Unknown License",
+      "url": ""
+    }
+  ],
+  "categories": [
+    {
+      "supercategory": "type",
+      "id": 1,
+      "name": "Bird"
+    },
+    {
+      "supercategory": "type",
+      "id": 2,
+      "name": "Human"
+    },
+    {
+      "supercategory": "type",
+      "id": 3,
+      "name": "Cup (object)"
+    },
+    {
+      "supercategory": "type",
+      "id": 4,
+      "name": "Unknown (object)"
+    }
+  ]
+}
